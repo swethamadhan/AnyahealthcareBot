@@ -21,9 +21,9 @@ External API integrations:
 •	  Google translate API
 
 Features:
-•	Language supported: English (default) , Spanish and French.
-•	Real-time user management.
-•	E-mail Verified Authentication by sending OTP.
+•	Language supported: English (default) , Spanish and French
+•	Real-time user management
+•	E-mail Verified Authentication by sending OTP
 •	Booking status and confirmation through 
-E-Mail.
+• E-Mail
 •	Humanlike conversation.
